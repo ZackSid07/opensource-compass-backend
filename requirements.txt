@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+postgrest
+httpx
+python-dotenv
+pydantic
+GitPython
+networkx
+sentence-transformers
+langchain-text-splitters
+google-generativeai
